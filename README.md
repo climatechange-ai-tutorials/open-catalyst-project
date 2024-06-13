@@ -2,16 +2,16 @@
 Chemical reactions are one approach to convert intermittently available renewable energy, such as solar or wind, to other fuels, like hydrogen. Learn how ML can discover low-cost catalysts to drive these reactions at high rates.
 
 Author(s):
-* Muhammed Shuaibi, CMU, mshuaibi@andrew.cmu.edu
-* Abhishek Das, FAIR, abhshkdz@fb.com
-* Adeesh Kolluru, CMU, akolluru@andrew.cmu.edu
-* Brandon Wood, NERSC, bwood@lbl.gov
-* Janice Lan, FAIR, janlan@fb.com
-* Anuroop Sriram, FAIR, anuroops@fb.com
-* Zachary Ulissi, CMU, zulissi@andrew.cmu.edu
-* Larry Zitnick, FAIR, zitnick@fb.com
+* Muhammed Shuaibi, Carnegie Mellon University, mshuaibi@andrew.cmu.edu
+* Abhishek Das, Facebook AI Research, abhshkdz@fb.com
+* Adeesh Kolluru, Carnegie Mellon University, akolluru@andrew.cmu.edu
+* Brandon Wood, National Energy Research Scientific Computing Center, bwood@lbl.gov
+* Janice Lan, Facebook AI Research, janlan@fb.com
+* Anuroop Sriram, Facebook AI Research, anuroops@fb.com
+* Zachary Ulissi, Carnegie Mellon University, zulissi@andrew.cmu.edu
+* Larry Zitnick, Facebook AI Research, zitnick@fb.com
 
-Originally presented at NeurIPS 2022
+Originally presented at NeurIPS 2021
 
 ## Access this tutorial
 
